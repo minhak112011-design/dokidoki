@@ -1,0 +1,6 @@
+{
+  "name": "Nhật Minh — Thiết kế Web Cơ Bản & Tiện Ích Số",
+  "description": "Trang giới thiệu cá nhân và dịch vụ làm website cơ bản, trang web quà tặng, sửa lỗi giao diện frontend và tiện ích số của Nhật Minh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
